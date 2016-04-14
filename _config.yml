@@ -1,14 +1,29 @@
+name: 'Cloud Catcher '
+favicon: null
 layout_spectrum: 0.0585392
 typography_spectrum: 0.2894737
+title: Cloud Catcher Roastery - Specialty Coffee Roaster
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7717763
-  lightness: 0.9179664
-  brandStrength: 0.09183671
   brandColors:
     - '#15200D'
     - '#BD9078'
     - '#9A6542'
     - '#809A88'
     - '#4B7F01'
+  brandStrength: 0.09183671
+  lightness: 0.9179664
+  saturation: 0.7717763
   rhythmicContrast: 0.02027412
-name: 'Cloud Catcher '
+purpose: []
