@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The understanding of how good coffee is made is a long, tedious, continuous but fun process. Cloud Catcher started from scratch by tracing the green beans back to its origins and learning how they are treated as young saplings in the nursery, choosing the right soil, harvesting, sorting, blending, roasting, cupping and scoring based on taste. Every step in the production of a good of coffee is interrelated, you need good brewing skills, an exceptional roast profile and, of course, un-compromised farming techniques at the source (soil, climate, selective picking, processing, etc)'
-datePublished: '2016-04-14T04:47:37.339Z'
-dateModified: '2016-04-14T04:47:36.619Z'
+datePublished: '2016-04-14T04:48:58.343Z'
+dateModified: '2016-04-14T04:48:43.036Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-the-understanding-of-how-good-coffee-is-made-is-a-long-tedi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-the-understanding-of-how-good-coffee-is-made-is-a-long-tedi.md
-published: true
 url: the-understanding-of-how-good-coffee-is-made-is-a-long-tedi/index.html
 _type: Article
 
@@ -28,6 +28,7 @@ _type: Article
 ### Seed to Cup
 
 The understanding of how good coffee is made is a long, tedious, continuous but fun process. Cloud Catcher started from scratch by tracing the green beans back to its origins and learning how they are treated as young saplings in the nursery, choosing the right soil, harvesting, sorting, blending, roasting, cupping and scoring based on taste. Every step in the production of a good of coffee is interrelated, you need good brewing skills, an exceptional roast profile and, of course, un-compromised farming techniques at the source (soil, climate, selective picking, processing, etc)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb1619b0-c695-4e8d-abb8-62476e93baea.jpg)
 
 ### Driven by Passion
 
