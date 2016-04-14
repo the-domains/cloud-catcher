@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Cloud Catcher is Asia's one-stop centres for specialty coffee based in Malaysia."
-datePublished: '2016-04-14T04:34:46.428Z'
-dateModified: '2016-04-14T04:34:44.316Z'
+datePublished: '2016-04-14T04:38:52.593Z'
+dateModified: '2016-04-14T04:34:56.259Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-cloud-catcher-is-asias-one-stop-centres-for-specialty-coffe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-cloud-catcher-is-asias-one-stop-centres-for-specialty-coffe.md
-published: true
 url: cloud-catcher-is-asias-one-stop-centres-for-specialty-coffe/index.html
 _type: Article
 
