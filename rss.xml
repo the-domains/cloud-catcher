@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cloud Catcher ]]></title>
+        <description><![CDATA[Cloud Catcher ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 04:35:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Travel]]></title>
+            <description><![CDATA[<article><h1>We Travel</h1><p>Cloud Catcher is Asia's one-stop centres for specialty coffee based in Malaysia.</p></article>]]></description>
+            <link>undefinedcloud-catcher-is-asias-one-stop-centres-for-specialty-coffe/index.html</link>
+            <guid isPermaLink="false">a095c199-e892-4e27-ba40-31608d8ce6bc</guid>
+            <pubDate>Thu, 14 Apr 2016 04:34:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
