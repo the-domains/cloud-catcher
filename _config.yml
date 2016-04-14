@@ -1,0 +1,14 @@
+layout_spectrum: 0.0585392
+typography_spectrum: 0.2894737
+color:
+  saturation: 0.7717763
+  lightness: 0.9179664
+  brandStrength: 0.09183671
+  brandColors:
+    - '#15200D'
+    - '#BD9078'
+    - '#9A6542'
+    - '#809A88'
+    - '#4B7F01'
+  rhythmicContrast: 0.02027412
+name: 'Cloud Catcher '
